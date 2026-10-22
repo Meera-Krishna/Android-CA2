@@ -1,8 +1,10 @@
 # Android-CA2
-Digital Library SearchScreen Question using Coroutine Scope- Android CA2 of CSE-226
 
-#CODE FOR THE APPLICATION
+## Digital Library SearchScreen Question using Coroutine Scope – Android CA2 of CSE-226
 
+## CODE FOR THE APPLICATION
+
+```kotlin
 package com.example.ca2
 
 import android.os.Bundle
@@ -213,3 +215,14 @@ fun SearchScreen(vm: SearchViewModel = viewModel()) {
         }
     }
 }
+```
+## Screenshot of the Application
+
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/746f5df5-479e-404c-af41-21f41e1b9784" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/a4cd15c6-d3d7-4116-8e07-d63fabab8717" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/4e4d8673-e3c7-407c-ab81-8f1173258ce3" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/b68edf7f-f1bf-48c2-93b4-fb18d0f91139" />
+
+
+
+
